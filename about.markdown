@@ -19,32 +19,38 @@ permalink: /about/
   - assembly (emu8086)
   - understanding of **C** syntax
   - **C++** (C++11, mem management, OOP, STL, DS implementations)
-
+\
 - high-level
   - familiar with JSON, YML, CSV formats
   - basic JavaScipt, HTML, CSS (sass) stack
   - basic Python (itertools, pandas, matplotlib, seaborn)
-
+\
 - SQL
   - oracleDBMS syntax
   - different SELECT statements 
-
+\
 - DevOps
   - basic understanding of how OS' work
-  - git basics (config, add, commit, push)
+  - git basics (config, branches, add, commit, push, pull requests)
   - windows bash scripting
+  - basic windows server administration (active directory)
   - experience with linux terminal (grep, pipes, make, apt, link, find, ssh) and bash scripting
   - docker (building images, container ports, volume mounting)
-
+\
 - DSA
   - array, linked-list (doubly)
   - queue, stack
   - binary tree, avl tree, trie tree, 2-3-4 and red-black trees
   - hash table (hash map)
+\
+- Math (university)
+  - 1.5 years of calculus
+  - 1 year of algebra
+  - 1.5 year of discrete mathematics
+  - 1 year of probability theory and mathematical statistics
   
 
-*А также:*
-**Умение гуглить и искать информацию**
+*А также:* **Умение гуглить и искать информацию**
   
 
 ## Образование
@@ -56,8 +62,8 @@ permalink: /about/
 
 ## О себе
 - Главные интересы в программировании: DataScience, **MachineLearning**, DevOps
-
-
+- Весь контент читаю и смотрю на английском языке, документации и книги стараюсь также читать на английском; примерный уровень (между B1-B2)
+\
 - В основном использую VSCode с Vim Motions (NeoVim оказался слишком время и нерво затратным)
 - Увлекаюсь "слепой" печатью — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
 - Люди, которые меня вдохновляют: George Hotz, Andrej Karpathy 
