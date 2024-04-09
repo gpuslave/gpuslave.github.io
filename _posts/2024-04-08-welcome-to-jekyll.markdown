@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Резюме можно найти вот тут"
-date:   2024-04-08 18:13:23 +0300
+date:   2024-04-09 18:13:23 +0300
 categories: jekyll update
 ---
-# ~> https://gpuslave.github.io/about/ <~
+# ~> [https://gpuslave.github.io/about/](https://gpuslave.github.io/about/) <~
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
