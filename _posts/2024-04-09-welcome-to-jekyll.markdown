@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Резюме можно найти вот тут"
-date:   2024-04-09 18:13:23 +0300
+date:   2024-04-09 13:42:23 +0300
 categories: jekyll update
 ---
 # ~> [https://gpuslave.github.io/about/](https://gpuslave.github.io/about/) <~
