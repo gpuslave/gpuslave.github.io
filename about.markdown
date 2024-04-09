@@ -1,19 +1,23 @@
 ---
 layout: page
-title: About
+title: "WhoAmI / Резюме"
 permalink: /about/
 ---
-# привет!
+## Контактная информация
+Немцев Алексей Алексеевич, г. Воронеж
+**Telegram:** [@shimanoee](https://t.me/shimanoee)
+**VK:** [sunsetclouds](https://vk.com/sunsetclouds)
+**Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Технологии
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Образование
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## О себе
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
+<!-- [jekyll][jekyll-organization] /
+[jekyll-organization]: https://github.com/jekyll -->
