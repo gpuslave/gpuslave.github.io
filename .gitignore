@@ -6,6 +6,12 @@ other
 .sudo_as_admin_successful
 dockerfile
 
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
 # Ignore system files
 .DS_Store
 Thumbs.db
