@@ -63,12 +63,13 @@ RUN gem install jekyll bundler
 
 RUN sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
 
-RUN sudo apt install -y ufw
+# RUN sudo apt install -y ufw
 # RUN useradd -m -s /bin/bash lex
 # RUN echo "lex:2589" | chpasswd
-RUN sudo ufw allow 22
+# RUN sudo ufw allow 22
 
-EXPOSE 22
+# EXPOSE 22
 EXPOSE 4000
+EXPOSE 35729
 
-ENTRYPOINT sudo service ssh start && bash
+ENTRYPOINT bash

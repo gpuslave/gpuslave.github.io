@@ -1,0 +1,44 @@
+gems
+.local
+myblog
+other
+.bash_history
+.sudo_as_admin_successful
+dockerfile
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jekyll build directory
+/_site/
+
+# Ignore Jekyll cache directory
+/.jekyll-cache/
+
+# Ignore Jekyll metadata file
+.jekyll-metadata
+
+# Ignore Ruby gem files
+*.gem
+*.rbc
+
+# Ignore unneeded Bundler files
+.bundle/
+/vendor/bundle/
+/lib/bundler/man/
+
+# Ignore dotenv environment variables file
+.env
+
+# Ignore the npm debug log and the project's node_modules directory
+npm-debug.log
+/node_modules/
+
+# Ignore IDE/Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
