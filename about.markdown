@@ -60,7 +60,9 @@ permalink: /about/
 **Курс:** 2-ой курс, бакалавриат
   
 ## Проекты (pet projects)
-
+- https://github.com/gpuslave/gpuslave.github.io 
+- https://github.com/gpuslave/telegram-chat-analyzer (in progress)
+- А также огромное количество сложных "лабораторных работ" в ВУЗе.
 
 ## О себе
 - Главные интересы в программировании: DataScience, **MachineLearning**, DevOps

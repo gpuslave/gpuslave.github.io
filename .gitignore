@@ -5,6 +5,7 @@ other
 .bash_history
 .sudo_as_admin_successful
 dockerfile
+*.pdf
 
 _site
 .sass-cache
