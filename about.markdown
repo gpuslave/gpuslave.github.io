@@ -60,8 +60,8 @@ permalink: /about/
 **Курс:** 2-ой курс, бакалавриат
   
 ## Проекты (pet projects)
-- https://github.com/gpuslave/gpuslave.github.io 
-- https://github.com/gpuslave/telegram-chat-analyzer (in progress)
+- [gpuslave.github.io](https://github.com/gpuslave/gpuslave.github.io)
+- [telegram-chat-analyzer (in progress)](https://github.com/gpuslave/telegram-chat-analyzer) 
 - А также огромное количество сложных "лабораторных работ" в ВУЗе.
 
 ## О себе
