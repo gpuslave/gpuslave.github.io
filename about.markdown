@@ -31,7 +31,7 @@ permalink: /about/
 
 - DevOps
   - basic understanding of how OS' work
-  - git basics (config, branches, add, commit, push, pull requests)
+  - git basics (config, branches, add, commit, push, reset, revert)
   - windows bash scripting
   - windows server administration (active directory)
   - experience with linux terminal (grep, pipes, make, apt, link, find, ssh) and bash scripting
