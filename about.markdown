@@ -16,42 +16,41 @@ permalink: /about/
 
 ## Технологии
 - low-level
-  - assembly (emu8086)
-  - understanding of **C** syntax
-  - **C++** (C++11, mem management, OOP, STL, own data structs implementations)
+  - Умение читать исходный код программ на **C**
+  - **C++** (C++11, mem management, ООП, STL, создание кастомных структур данных)
 
 - high-level
-  - familiar with JSON, YML, CSV formats
-  - basic JavaScript, HTML, CSS (sass) stack
-  - Python (itertools, pandas, matplotlib, seaborn, and more...)
+  - Знаком с такими форматами организации данных как: JSON, YML, CSV
+  - Основы JavaScript, HTML, CSS (sass) stack
+  - Знакомство с Excel, статистический анализ данных Excel (величины, графики)
+  - Python (itertools, pandas, matplotlib, seaborn)
 
 - SQL
-  - oracleDBMS syntax
-  - different SELECT statements 
+  - Знакомство с СУБД Oracle
+  - Умение составлять сложные SELECT запросы
 
 - DevOps
-  - basic understanding of how OS' work
-  - git basics (config, branches, add, commit, push, reset, revert)
-  - windows bash scripting
-  - windows server administration (active directory)
-  - experience with linux terminal (grep, pipes, make, apt, link, find, ssh) and bash scripting
+  - git (branching, add, commit, push, reset, revert)
+  - batch скриптинг
+  - Серверная администрация Windows(active directory)
+  - Знакомство с ОС Linux и его командной строкой (grep, mkfifo, make, apt, link, find, ssh), bash скриптинг
   - docker (building images, container ports, volume mounting)
 
-- DSA (structures)
+- DSA (структуры данных)
   - array, linked-lists (singly, doubly, circular)
   - queue, stack
   - binary tree, avl tree, trie tree, 2-3-4 and red-black trees
   - hash table (hash map)
 
-- DSA (algorithms)
-  - sorts (bubble, insertion, selection, mergesort, quicksort)
-  - search (binary, bfs, dfs)
+- DSA (алгоритмы)
+  - сортировки (bubble, insertion, selection, mergesort, quicksort)
+  - поиск (binary, bfs, dfs)
 
 - Math (university)
-  - 1.5 years of calculus
-  - 1 year of algebra
-  - 1.5 year of discrete mathematics
-  - 1 year of probability theory and mathematical statistics
+  - 1.5 года математического анализа 
+  - 1 год алгебры
+  - 1.5 года дискретной математики и математической логики
+  - 1 год теории вероятностей и математической статистики
     
   
 ## Образование
@@ -66,19 +65,12 @@ permalink: /about/
 - А также огромное количество сложных "лабораторных работ" в ВУЗе.
 
 ## О себе
-- Главные интересы в программировании: DataScience, **MachineLearning**, DevOps
-- Весь контент читаю и смотрю на английском языке, документации и книги стараюсь также читать на английском; примерный уровень B2
-
-
-- В основном использую VSCode с Vim Motions (NeoVim оказался слишком время и нерво затратным)
+- Готов работать только гибким графиком, чтобы совмещать работу с учебой
+- Главные интересы в программировании: **MachineLearning**,DataScience, DevOps
+- Английский на уровне чтения документации и книг в оригинале (официальная сертификация уровня отсутсвует)
+- В основном использую VSCode с Vim Motions
 - Увлекаюсь "слепой" печатью (avg 90wpm, top 20% worldwide 60sec test) — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
-- Люди, которые меня вдохновляют: George Hotz, Andrej Karpathy 
-- Вместо 8 сезонов сериала люблю посмотреть подкаст Lex Fridman'а
-- Веду спортивный образ жизни
-- Обожаю всё, что связано с велосипедом — кросс-кантри, bike trips и т. д.
-- Люблю фотографировать природу (большое количество фотографий можно найти на стене [vk](https://vk.com/sunsetclouds))
-- Неравнодушен к домашним животным, в особенности к кошкам :3
-- [Не женат.](https://youtu.be/9Q4VTY8j-p4?si=gBA55EDuW_g63Q6t&t=3)
+- Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy(tesla autopilot, openai) 
 
 
 
