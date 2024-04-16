@@ -71,7 +71,7 @@ permalink: /about/
 
 
 - В основном использую VSCode с Vim Motions (NeoVim оказался слишком время и нерво затратным)
-- Увлекаюсь "слепой" печатью — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
+- Увлекаюсь "слепой" печатью (avg 90wpm, top 20% worldwide 60sec test) — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
 - Люди, которые меня вдохновляют: George Hotz, Andrej Karpathy 
 - Вместо 8 сезонов сериала люблю посмотреть подкаст Lex Fridman'а
 - Веду спортивный образ жизни
