@@ -26,9 +26,9 @@ permalink: /about/
   - Анализ данных в программе [Statistica](https://en.wikipedia.org/wiki/Statistica)
   - Python 
     - venv 
-    - PEP8
+    - PEP8 style guide
+    - type hints и mypy static type checker
     - RegEx (*re* module)
-    - mypy static type checker
     - itertools module
     - pandas module (basic data organization, manipulation)
     - matplotlib module (basic plotting)
@@ -41,21 +41,24 @@ permalink: /about/
 - DevOps
   - git (branch, знакомство с git workflow, add, commit, push, pull, fetch, reset, revert, log)
   - batch скриптинг
+  - Настройка виртуальных машин и объединение их в сеть утилитой VMWare workstation
+  - Теория по нетворкинга (коммутатор, маршрутизатор, TCP/IP, маска, шлюз)
   - Серверная администрация Windows (active directory)
   - Знакомство с ОС Linux и его командной строкой (grep, mkfifo, make, apt, link, find, ssh), bash скриптинг
   - docker (building images, container ports, volume mounting)
 
 - DSA (структуры данных)
-  - array, linked-lists (singly, doubly, circular)
-  - queue, stack
-  - binary tree, avl tree, trie tree, 2-3-4 and red-black trees
-  - hash table (hash map)
+  - Array, linked-lists (singly, doubly, circular)
+  - Queue, stack
+  - Binary tree, avl tree, trie tree, 2-3-4 and red-black trees
+  - Hash table (hash map)
 
 - DSA (алгоритмы)
   - Сортировки (bubble, insertion, selection, mergesort, quicksort)
   - Поиск (binary, bfs, dfs)
-  - backtracking
+  - Backtracking
   - Обработка и хранение графов в программе (adj matrix, adj list)
+  - А также темы, которые попадались на [литкоде](https://leetcode.com/gpuslave/)
 
 - Math (university)
   - 1.5 года математического анализа 
@@ -76,8 +79,9 @@ permalink: /about/
 - А также огромное количество сложных "лабораторных работ" в ВУЗе.
 
 ## О себе
-- Готов работать только гибким графиком, чтобы совмещать работу с учебой
-- Главные интересы в программировании: **MachineLearning**, DataScience, DevOps
+- Готов работать гибким графиком, чтобы совмещать работу с учебой
+---
+- Главные интересы в программировании: **Machine Learning**, Data Science, DevOps (MLOps)
 - Английский на уровне чтения документации и книг в оригинале (официальная сертификация уровня отсутсвует)
 - В основном использую VSCode с Vim Motions, знаком с MSVS, PyCharm
 - Увлекаюсь "слепой" печатью (avg 90wpm, top 20% worldwide 60sec test) — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
