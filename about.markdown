@@ -25,9 +25,11 @@ permalink: /about/
   - Знакомство с Excel, статистический анализ данных Excel (величины, графики)
   - Анализ данных в программе [Statistica](https://en.wikipedia.org/wiki/Statistica)
   - Python 
+    - pip
     - venv 
     - PEP8 style guide
     - type hints и mypy static type checker
+    - поверхностно знаком с jupyter notebook и anaconda (miniconda)
     - RegEx (*re* module)
     - itertools module
     - pandas module (basic data organization, manipulation)
@@ -36,7 +38,7 @@ permalink: /about/
 
 - SQL
   - Знакомство с СУБД Oracle
-  - Умение составлять SELECT запросы (практика на [sql-ex](https://sql-ex.ru/)
+  - Умение составлять SELECT запросы (практика на [sql-ex](https://sql-ex.ru/))
 
 - DevOps
   - Git (branch, знакомство с git workflow, add, commit, push, pull, fetch, reset, revert, log)
@@ -79,10 +81,11 @@ permalink: /about/
 - А также огромное количество сложных "лабораторных работ" в ВУЗе.
 
 ## О себе
+  
 - Готов работать гибким графиком, чтобы совмещать работу с учебой
 ---
 - Главные интересы в программировании: **Machine Learning**, Data Science, DevOps (MLOps)
-- Английский на уровне чтения документации и книг в оригинале (официальная сертификация уровня отсутсвует)
+- Английский на **уровне чтения документации и книг в оригинале** (официальная сертификация уровня отсутсвует)
 - В основном использую VSCode с Vim Motions, знаком с MSVS, PyCharm
 - Увлекаюсь "слепой" печатью (avg 90wpm, top 20% worldwide 60sec test) — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
 - Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy (tesla autopilot, openai) 
