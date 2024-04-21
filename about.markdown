@@ -7,7 +7,7 @@ permalink: /about/
 Немцев Алексей Алексеевич, г. Воронеж  
   
 
-**Telegram:** [@shimanoee](https://t.me/shimanoee)  
+**Telegram:** [@mgck6](https://t.me/mgck6)  
 **VK:** [sunsetclouds](https://vk.com/sunsetclouds)  
 **Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)  
 **LeetCode:** [gpuslave](https://leetcode.com/gpuslave/)  
