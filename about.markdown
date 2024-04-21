@@ -31,15 +31,15 @@ permalink: /about/
     - mypy static type checker
     - itertools module
     - pandas module (basic data organization, manipulation)
-    - matplotlib module (basics plotting)
-    - seaborn module (basics plots)
+    - matplotlib module (basic plotting)
+    - seaborn module (basic plots)
 
 - SQL
   - Знакомство с СУБД Oracle
   - Умение составлять SELECT запросы (практика на [sql-ex](https://sql-ex.ru/)
 
 - DevOps
-  - git (branch, знакомство с git workflow, add, commit, push, reset, revert)
+  - git (branch, знакомство с git workflow, add, commit, push, pull, fetch, reset, revert, log)
   - batch скриптинг
   - Серверная администрация Windows (active directory)
   - Знакомство с ОС Linux и его командной строкой (grep, mkfifo, make, apt, link, find, ssh), bash скриптинг
