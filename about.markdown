@@ -39,13 +39,13 @@ permalink: /about/
   - Умение составлять SELECT запросы (практика на [sql-ex](https://sql-ex.ru/)
 
 - DevOps
-  - git (branch, знакомство с git workflow, add, commit, push, pull, fetch, reset, revert, log)
-  - batch скриптинг
+  - Git (branch, знакомство с git workflow, add, commit, push, pull, fetch, reset, revert, log)
+  - Batch скриптинг
   - Настройка виртуальных машин и объединение их в сеть утилитой VMWare workstation
-  - Теория по нетворкинга (коммутатор, маршрутизатор, TCP/IP, маска, шлюз)
+  - Теория нетворкинга (коммутатор, маршрутизатор, TCP/IP, маска, шлюз)
   - Серверная администрация Windows (active directory)
   - Знакомство с ОС Linux и его командной строкой (grep, mkfifo, make, apt, link, find, ssh), bash скриптинг
-  - docker (building images, container ports, volume mounting)
+  - Docker (building images, container ports, volume mounting)
 
 - DSA (структуры данных)
   - Array, linked-lists (singly, doubly, circular)
