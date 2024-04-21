@@ -23,16 +23,25 @@ permalink: /about/
   - Знаком с такими форматами организации данных как: JSON, YML, CSV
   - Основы JavaScript, HTML, CSS (sass) stack
   - Знакомство с Excel, статистический анализ данных Excel (величины, графики)
-  - Python (itertools, pandas, matplotlib, seaborn)
+  - Анализ данных в программе [Statistica](https://en.wikipedia.org/wiki/Statistica)
+  - Python 
+    - venv 
+    - PEP8
+    - RegEx (*re* module)
+    - mypy static type checker
+    - itertools module
+    - pandas module (basic data organization, manipulation)
+    - matplotlib module (basics plotting)
+    - seaborn module (basics plots)
 
 - SQL
   - Знакомство с СУБД Oracle
-  - Умение составлять сложные SELECT запросы
+  - Умение составлять SELECT запросы (практика на [sql-ex](https://sql-ex.ru/)
 
 - DevOps
-  - git (branching, add, commit, push, reset, revert)
+  - git (branch, знакомство с git workflow, add, commit, push, reset, revert)
   - batch скриптинг
-  - Серверная администрация Windows(active directory)
+  - Серверная администрация Windows (active directory)
   - Знакомство с ОС Linux и его командной строкой (grep, mkfifo, make, apt, link, find, ssh), bash скриптинг
   - docker (building images, container ports, volume mounting)
 
@@ -43,8 +52,10 @@ permalink: /about/
   - hash table (hash map)
 
 - DSA (алгоритмы)
-  - сортировки (bubble, insertion, selection, mergesort, quicksort)
-  - поиск (binary, bfs, dfs)
+  - Сортировки (bubble, insertion, selection, mergesort, quicksort)
+  - Поиск (binary, bfs, dfs)
+  - backtracking
+  - Обработка и хранение графов в программе (adj matrix, adj list)
 
 - Math (university)
   - 1.5 года математического анализа 
@@ -66,11 +77,11 @@ permalink: /about/
 
 ## О себе
 - Готов работать только гибким графиком, чтобы совмещать работу с учебой
-- Главные интересы в программировании: **MachineLearning**,DataScience, DevOps
+- Главные интересы в программировании: **MachineLearning**, DataScience, DevOps
 - Английский на уровне чтения документации и книг в оригинале (официальная сертификация уровня отсутсвует)
-- В основном использую VSCode с Vim Motions
+- В основном использую VSCode с Vim Motions, знаком с MSVS, PyCharm
 - Увлекаюсь "слепой" печатью (avg 90wpm, top 20% worldwide 60sec test) — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
-- Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy(tesla autopilot, openai) 
+- Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy (tesla autopilot, openai) 
 
 
 
