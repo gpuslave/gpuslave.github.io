@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Резюме можно найти вот тут"
+title:  "Résumé можно найти вот тут"
 date:   2024-04-09 13:42:23 +0300
 categories: jekyll update
 ---
