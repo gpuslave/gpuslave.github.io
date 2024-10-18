@@ -16,9 +16,9 @@ permalink: /about/
 
 ## Технологии
 - low-level
-  - **C**, gcc, clang
-  - **C++** (C++11, mem management, ООП, STL, создание кастомных структур данных)
-  - 8086 assembly8086
+  - C, gcc, clang
+  - C++ (C++11, mem management, ООП, STL, создание кастомных структур данных)
+  - 8086 assembly
 
 - Python
   - pip, venv
@@ -86,9 +86,13 @@ permalink: /about/
 ## О себе
   
 - Готов работать гибким графиком, чтобы совмещать работу с учебой
+
 - Английский на **уровне чтения документации и книг в оригинале**
+
 - Увлекаюсь "слепой" печатью, avg 90wpm, **top 14% worldwide 60sec enslish** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
+
 ---
+
 - Главные интересы в программировании: Machine Learning, Data Science, DevOps & MLOps
 - В основном использую VSCode и NeoVim, знаком с MSVS, PyCharm
 - Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy (tesla autopilot, openai) 
