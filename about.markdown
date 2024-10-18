@@ -8,10 +8,10 @@ permalink: /about/
   
 
 **Telegram:** [@gpuslave](https://t.me/gpuslave)  
-**VK:** [sunsetclouds](https://vk.com/sunsetclouds)
-<!-- **Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)   -->
+**VK:** [sunsetclouds](https://vk.com/sunsetclouds)  
 **LeetCode:** [gpuslave](https://leetcode.com/gpuslave/)  
 **Kaggle:** [alexnemt](https://www.kaggle.com/alexnemt)
+<!-- **Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)   -->
   
 
 ## Технологии
@@ -85,11 +85,11 @@ permalink: /about/
 
 ## О себе
   
-- Готов работать гибким графиком, чтобы совмещать работу с учебой
+- Готов работать гибким графиком, чтобы совмещать работу с учебой  
 
-- Английский на **уровне чтения документации и книг в оригинале**
+- Английский на **уровне чтения документации и книг в оригинале**  
 
-- Увлекаюсь "слепой" печатью, avg 90wpm, **top 14% worldwide 60sec enslish** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)
+- Увлекаюсь "слепой" печатью, avg 90wpm, **top 14% worldwide 60sec enslish** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)  
 
 ---
 
