@@ -15,31 +15,24 @@ permalink: /about/
   
 
 ## Технологии
-- low-level
-  - C, gcc, clang
-  - C++ (C++11, mem management, ООП, STL, создание кастомных структур данных)
-  - 8086 assembly
 
 - Python
-  - pip, venv
-  - PEP8, ruff
-  - typing, mypy
-  - RegEx
+  - typing, PEP8, venv, RegEx, mypy, ruff
   - IPython, jupyter, anaconda & miniconda
   - pandas
   - matplotlib, seaborn
-  - scikit
+  - scikit (classic ML)
 
 - DevOps
-  - Git (branch, git workflow, add, commit, push, pull, fetch, reset, revert, log)
-  - Batch скриптинг
+  - Git (branch, git workflow, add, commit, push, pull, fetch, merge, rebase, reset, revert, log)
+  - Ubuntu-based Linux (apt, grep, mkfifo, make, link, find, ssh, ftp, curl)
+  - Vim, neovim, rc files
+  - Bash скриптинг
   - VMWare
-  - networking (коммутатор, маршрутизатор, TCP/IP, DHCP, маска, шлюз)
-  - Windows Server
-  - ubuntu-based Linux (apt, grep, mkfifo, make, link, find, ssh, ftp, curl)
-  - vim, neovim, rc files
-  - bash скриптинг
+  - Networking (коммутатор, маршрутизатор, TCP/IP, DHCP, маска, шлюз)
   - Docker (building images, container ports, volume mounting)
+  - Windows Server
+  - Batch скриптинг
 
 - Best practices
   - SOLID
@@ -47,15 +40,16 @@ permalink: /about/
   - KISS
 
 - DSA (структуры данных)
-  - Array, linked-lists (singly, doubly, circular)
+  - ll (single, double, circular)
   - Queue, stack
-  - Binary tree, avl tree, trie tree, 2-3-4 & red-black trees
-  - Hash table (map)
+  - Binary tree, AVL tree, TRIE tree, 2-3-4 & red-black trees
+  - Hash table
 
 - DSA (алгоритмы)
   - Сортировки (insertion, selection, merge, quick, heap)
   - Поиск (binary, bfs, dfs)
   - Backtracking
+  - Sliding window
   - Обработка и хранение графов (adj matrix, adj list)
 
 - Web
@@ -67,12 +61,17 @@ permalink: /about/
   - PowerDesigner
   - DQL, DDL, DML
 
-- Math (university)
+- low-level
+  - C, gcc
+  - C++ (C++11, mem management, OOP, STL, custom DS optimizations)
+  - x86 assembly basics
+
+<!-- - Math (university)
   - 1.5 года математического анализа 
   - 1 год алгебры
   - 1.5 года дискретной математики и мат логики
   - 1 год теории вероятностей и математической статистики
-  - 0.5 года методов оптимизаций вычислений
+  - 0.5 года методов оптимизаций вычислений -->
     
 ## Образование
 **ВУЗ:** Воронежский Государственный Университет \
