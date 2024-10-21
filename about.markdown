@@ -88,7 +88,7 @@ permalink: /about/
 
 - Английский на **уровне чтения документации и книг в оригинале**  
 
-- Увлекаюсь "слепой" печатью, avg 90wpm, **top 14% worldwide 60sec enslish** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)  
+- Увлекаюсь "слепой" печатью, avg 90wpm, **top 14% worldwide 60sec english** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)  
 
 ---
 
