@@ -54,6 +54,7 @@ permalink: /about/
 
 - Web
   - Основы JavaScript, HTML, CSS (sass)
+  - ASP.NET Core (minimal API, HTTP API)
   - JSON, YML, CSV
 
 - SQL
