@@ -100,6 +100,7 @@ permalink: /about/
 - Главные интересы в программировании: Machine Learning, DevOps, Data Science, MLOps
 - В основном использую VSCode и NeoVim, знаком с MSVS, PyCharm
 - Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy (tesla autopilot, openai) 
+- Хобби: фотографирование (пейзажное), вело-спорт (гравийный-шоссейный), музыка (вокал) 
 
 <!-- [jekyll][jekyll-organization] /
 [jekyll-organization]: https://github.com/jekyll -->
