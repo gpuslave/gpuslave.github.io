@@ -21,7 +21,7 @@ permalink: /about/
   - IPython, jupyter, anaconda & miniconda
   - pandas
   - matplotlib, seaborn
-  - scikit (classic ML)
+  - scikit (classic ML algo)
 
 - DevOps
   - Git (branch, git workflow, add, commit, push, pull, fetch, merge, rebase, reset, revert, log)
@@ -40,7 +40,7 @@ permalink: /about/
   - KISS
 
 - DSA (структуры данных)
-  - ll (single, double, circular)
+  - linked list (double, circular)
   - Queue, stack
   - Binary tree, AVL tree, TRIE tree, 2-3-4 & red-black trees
   - Hash table
@@ -78,10 +78,12 @@ permalink: /about/
 **ВУЗ:** Воронежский Государственный Университет \
 **Факультет:** ПММ (Факультет **п**рикладной **м**атематики, информатики и **м**еханики) \
 **Направление:** ФИИТ (Фундаментальная информатика и информационные технологии, очно) \
-**Курс:** 3-ой курс, бакалавриат
+**Курс:** 3-ий курс, бакалавриат
   
 ## Проекты (pet projects)
-- [telegram-chat-analyzer](https://github.com/gpuslave/telegram-chat-analyzer) 
+- [telegram chat analyzer](https://github.com/gpuslave/telegram-chat-analyzer) 
+- [loc](https://github.com/gpuslave/line-counter) 
+- [ML notebooks](https://github.com/gpuslave/ml-notebooks) 
 
 ## О себе
   
@@ -89,11 +91,13 @@ permalink: /about/
 
 - Английский на **уровне чтения документации и книг в оригинале**  
 
-- Увлекаюсь "слепой" печатью, avg 90wpm, **top 14% worldwide 60sec english** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)  
+- Предпочитаю работать через CLI (Использую IDE только в крайних случаях) 
+
+- Увлекаюсь "слепой" печатью, avg 90wpm — **top 14% worldwide 60sec english** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)  
 
 ---
 
-- Главные интересы в программировании: Machine Learning, Data Science, DevOps & MLOps
+- Главные интересы в программировании: Machine Learning, DevOps, Data Science, MLOps
 - В основном использую VSCode и NeoVim, знаком с MSVS, PyCharm
 - Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy (tesla autopilot, openai) 
 
