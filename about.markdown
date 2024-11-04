@@ -12,11 +12,11 @@ permalink: /about/
 **LeetCode:** [gpuslave](https://leetcode.com/gpuslave/)  
 **Kaggle:** [alexnemt](https://www.kaggle.com/alexnemt)
 <!-- **Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)   -->
-  
+
 
 ## Технологии
 
-- Python
+- Python (CPython)
   - typing, PEP8, venv, RegEx, mypy, ruff
   - IPython, jupyter, anaconda & miniconda
   - pandas
@@ -24,15 +24,15 @@ permalink: /about/
   - scikit (classic ML algo)
 
 - DevOps
-  - Git (branch, git workflow, add, commit, push, pull, fetch, merge, rebase, reset, revert, log)
-  - Ubuntu-based Linux (apt, grep, mkfifo, make, link, find, ssh, ftp, curl)
-  - Vim, neovim, rc files
+  - Git (branch, git workflows, add, commit, push, pull, fetch, merge, rebase, reset, revert, rerere, log)
+  - Linux (apt, grep, mkfifo, make, link, find, ssh, curl)
+  - Docker (building images, running containers, compose, volumes)
+  - Vim, rc files
+  - Networking (TCP/IP, DHCP)
   - Bash скриптинг
-  - VMWare
-  - Networking (коммутатор, маршрутизатор, TCP/IP, DHCP, маска, шлюз)
-  - Docker (building images, container ports, volume mounting)
-  - Windows Server
   - Batch скриптинг
+  - VMWare
+  - Windows Server
 
 - Best practices
   - SOLID
