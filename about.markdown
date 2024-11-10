@@ -24,11 +24,15 @@ permalink: /about/
   - scikit (classic ML algo)
 
 - DevOps
-  - Git (branch, git workflows, add, commit, push, pull, fetch, merge, rebase, reset, revert, rerere, log)
+  - Git (branch, git workflows, push, pull, merge, rebase, reset, restore, revert, rerere, log)
+  - GitHub Actions (environments&&contexts, caching, artifacts)
+    - build
+    - unit test (branch push, pull request)
+    - release (gh release)
   - Linux (apt, grep, mkfifo, make, link, find, ssh, curl)
   - Docker (building images, running containers, compose, volumes)
   - Vim, rc files
-  - Networking (TCP/IP, DHCP)
+  - Networking (TCP/IP, HTTP, public key crypto, TLS, DHCP)
   - Bash скриптинг
   - Batch скриптинг
   - VMWare
@@ -60,12 +64,13 @@ permalink: /about/
 - SQL
   - OracleDBMS
   - PowerDesigner
+  - xNF
   - DQL, DDL, DML
 
 - low-level
   - C, gcc
   - C++ (C++11, mem management, OOP, STL, custom DS optimizations)
-  - x86 assembly basics
+  - x86 assembly basics ([gpuslave/assembly-practice](https://github.com/gpuslave/assembly-practice))
 
 <!-- - Math (university)
   - 1.5 года математического анализа 
@@ -81,9 +86,10 @@ permalink: /about/
 **Курс:** 3-ий курс, бакалавриат
   
 ## Проекты (pet projects)
-- [telegram chat analyzer](https://github.com/gpuslave/telegram-chat-analyzer) 
-- [loc](https://github.com/gpuslave/line-counter) 
-- [ML notebooks](https://github.com/gpuslave/ml-notebooks) 
+- [gpuslave/ml-notebooks](https://github.com/gpuslave/ml-notebooks)
+- [gpuslave/telegram-chat-analyzer](https://github.com/gpuslave/telegram-chat-analyzer)
+- [gpuslave/line-counter](https://github.com/gpuslave/line-counter)
+- [vafeen/UniversitySchedule](https://github.com/vafeen/UniversitySchedule) (as editor && devops)
 
 ## О себе
   
@@ -93,7 +99,7 @@ permalink: /about/
 
 - Предпочитаю работать через CLI (Использую IDE только в крайних случаях) 
 
-- Увлекаюсь "слепой" печатью, avg 90wpm — **top 14% worldwide 60sec english** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)  
+- Увлекаюсь "слепой" печатью, avg 90wpm — **top 12% worldwide 60sec english** — [monkeytype](https://monkeytype.com/profile/sunsetclouds.)  
 
 ---
 
