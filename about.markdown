@@ -4,17 +4,15 @@ title: "Резюме | whoami"
 permalink: /about/
 ---
 ## Контактная информация
-Немцев Алексей Алексеевич, г. Воронеж  
+Немцев Алексей, г. Воронеж  
   
 
 **Telegram:** [@gpuslave](https://t.me/gpuslave)  
-**VK:** [sunsetclouds](https://vk.com/sunsetclouds)  
-**LeetCode:** [gpuslave](https://leetcode.com/gpuslave/)  
-**Kaggle:** [alexnemt](https://www.kaggle.com/alexnemt)
-<!-- **Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)   -->
+**hhru:** [@gpuslave](https://hh.ru/resume/cca69fb9ff0e20c5610039ed1f50736a676846)  
+**Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)  
 
 
-## Технологии
+<!-- ## Технологии
 
 - Python (CPython)
   - typing, PEP8, venv, RegEx, mypy, ruff
@@ -70,7 +68,7 @@ permalink: /about/
 - low-level
   - C, gcc
   - C++ (C++11, mem management, OOP, STL, custom DS optimizations)
-  - x86 assembly basics ([gpuslave/assembly-practice](https://github.com/gpuslave/assembly-practice))
+  - x86 assembly basics ([gpuslave/assembly-practice](https://github.com/gpuslave/assembly-practice)) -->
 
 <!-- - Math (university)
   - 1.5 года математического анализа 
@@ -79,7 +77,7 @@ permalink: /about/
   - 1 год теории вероятностей и математической статистики
   - 0.5 года методов оптимизаций вычислений -->
     
-## Образование
+<!-- ## Образование
 **ВУЗ:** Воронежский Государственный Университет \
 **Факультет:** ПММ (Факультет **п**рикладной **м**атематики, информатики и **м**еханики) \
 **Направление:** ФИИТ (Фундаментальная информатика и информационные технологии, очно) \
@@ -106,7 +104,7 @@ permalink: /about/
 - Главные интересы в программировании: Machine Learning, DevOps, DevSecOps, MLOps, Data Science
 - В основном использую VSCode и NeoVim, знаком с MSVS, PyCharm
 - Люди, которые меня вдохновляют: George Hotz (tinygrad, comma.ai), Andrej Karpathy (tesla autopilot, openai) 
-- Хобби: фотографирование (пейзажное), вело-спорт (гравийный-шоссейный), музыка (вокал) 
+- Хобби: фотографирование (пейзажное), вело-спорт (гравийный-шоссейный), музыка (вокал)  -->
 
 <!-- [jekyll][jekyll-organization] /
 [jekyll-organization]: https://github.com/jekyll -->
