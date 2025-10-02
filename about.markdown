@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "Резюме | whoami"
+title: "whoami"
 permalink: /about/
 ---
-## Контактная информация
 Немцев Алексей, г. Воронеж  
   
-
 **Telegram:** [@gpuslave](https://t.me/gpuslave)  
 **hhru:** [@gpuslave](https://hh.ru/resume/cca69fb9ff0e20c5610039ed1f50736a676846)  
 **Habr-Career:** [whitedragonborn](https://career.habr.com/whitedragonborn)  
